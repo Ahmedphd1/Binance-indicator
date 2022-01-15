@@ -1,0 +1,8 @@
+https://iexcloud.io/docs/api/
+
+indicator used: Stochastic indicator
+
+How to calculate j : https://github.com/Abhay64/KDJ-Indicator
+
+api key: pk_2c1f5e8585b54e48a07d4f932fb508f6
+
